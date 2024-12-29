@@ -1,5 +1,6 @@
 # Supporting Material for "Benchmarking Modern Scientific Computing Platforms for 2D Potential Flow Solver"
 
+[![DOI](https://zenodo.org/badge/909530309.svg)](https://doi.org/10.5281/zenodo.14572734)
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
