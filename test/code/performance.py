@@ -67,7 +67,7 @@ def run_command(cmd, language):
     
     return execution_time, peak_memory
 
-def benchmark_implementation(cmd, language, num_runs=10, num_warmup=5):
+def benchmark_implementation(cmd, language, num_runs=200, num_warmup=5):
     """Benchmark a single implementation with warmup runs."""
     print(f"\nBenchmarking {language} implementation...")
     results = []
