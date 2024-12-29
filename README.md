@@ -60,7 +60,7 @@ Ensure you have the following dependencies installed:
 
 - **Python**: `numpy`, `scipy`, `pandas`, `matplotlib`
 - **Julia**: `LinearAlgebra`, `DataFrames`, `CSV`
-- **R**: `tidyverse`, `RcppArmadillo`
+- **R**: `tidyverse`
 
 ### Running the Simulations
 
