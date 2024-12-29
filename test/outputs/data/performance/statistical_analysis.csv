@@ -1,0 +1,13 @@
+Comparison,Metric,Mean,Median,Std,CI_Lower,CI_Upper,IQR,Test,Statistic,P_Value,Adjusted_P_Value,Effect_Size,Effect_Size_Type,Significant
+Python (Descriptive),runtime_seconds,61.980,62.324,12.697,53.930,69.678,23.659,,,,,,,
+Julia (Descriptive),runtime_seconds,30.853,30.134,1.452,30.044,31.805,2.249,,,,,,,
+R (Descriptive),runtime_seconds,76.196,69.037,15.466,67.561,86.547,13.230,,,,,,,
+Python vs Julia,runtime_seconds,,,,,,,Mann-Whitney U,100.000,0.000,0.001,1.000,Cliff's Delta,True
+Python vs R,runtime_seconds,,,,,,,Mann-Whitney U,28.000,0.104,0.312,-0.440,Cliff's Delta,False
+Julia vs R,runtime_seconds,,,,,,,Mann-Whitney U,0.000,0.000,0.001,-1.000,Cliff's Delta,True
+Python (Descriptive),memory_mb,103.227,103.641,0.991,102.589,103.796,1.210,,,,,,,
+Julia (Descriptive),memory_mb,512.639,513.264,1.654,511.603,513.635,3.372,,,,,,,
+R (Descriptive),memory_mb,190.773,190.777,0.156,190.677,190.869,0.219,,,,,,,
+Python vs Julia,memory_mb,,,,,,,Mann-Whitney U,0.000,0.000,0.001,-1.000,Cliff's Delta,True
+Python vs R,memory_mb,,,,,,,Mann-Whitney U,0.000,0.000,0.001,-1.000,Cliff's Delta,True
+Julia vs R,memory_mb,,,,,,,Mann-Whitney U,100.000,0.000,0.001,1.000,Cliff's Delta,True

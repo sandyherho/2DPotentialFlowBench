@@ -1,0 +1,6 @@
+"parameter","value_1","value_2"
+"box_imin","30","60"
+"box_imax","50","80"
+"box_jmin","60","90"
+"box_jmax","80","120"
+"box_colors","gray","gray"
