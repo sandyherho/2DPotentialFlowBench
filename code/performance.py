@@ -115,7 +115,7 @@ def run_benchmarks():
     df = pd.DataFrame(all_results)
     
     # Add timestamp column
-    df['timestamp'] = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+    #df['timestamp'] = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
     
     # Save results
     output_file = f'../outputs/data/performance/benchmark_results.csv'
