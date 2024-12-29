@@ -42,7 +42,7 @@ If you use this repository in your research, please cite:
 
 ```bibtex
 @article{herhoKabanAnwar2024,
-  author = {Herho, Sandy H. S. and Kaban, Siti N. and Anwar, Iwan P.},
+  author = {Herho, S. H. S. and Kaban, S. N. and Anwar, I. P.},
   title = {{Benchmarking Modern Scientific Computing Platforms for 2D Potential Flow Solver}},
   journal = {TBD},
   year = {2024},
