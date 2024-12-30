@@ -1,8 +1,0 @@
-Summary Statistics:
-         runtime_seconds                  ... memory_mb                  
-                    mean     std     min  ...       std      min      max
-language                                  ...                            
-Julia             29.499   0.262  28.857  ...     1.262  510.176  516.570
-Python            44.981   6.461  41.678  ...     1.180  105.773  110.535
-R                 71.664  13.426  62.151  ...     0.198  190.168  191.199
-
